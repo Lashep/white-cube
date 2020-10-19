@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,700&display=swap");
 
 @font-face {
-  src: url(/fonts/gugeshashvili.ttf);
+  src: url(../fonts/gugeshashvili.ttf);
   font-family: gugeshashvili;
 }
 
 @font-face {
-  src: url(/fonts/BPG-Afxazeti-Regular.otf);
+  src: url(../fonts/BPG-Afxazeti-Regular.otf);
   font-family: BPG Afxazeti;
 }
 
